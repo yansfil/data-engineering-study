@@ -30,6 +30,14 @@
 
 [객체 지향](https://www.notion.so/29d6997709f84737ab9f7424ca4be2b2)
 
+[디자인 패턴](https://www.notion.so/92cc93092f2c4c23b725e8eec5eeb5f9)
+
+[시스템 디자인](https://www.notion.so/a8819ad2a2874fa8ab22da8ea8333256)
+
+[GIT ](https://www.notion.so/GIT-60d112b46a534cb0bbd3355b7b9f3d4a)
+
+[기타](https://www.notion.so/5462bcf6aaf7495c864e48d4adfd0953)
+
 ### 데이터
 
 [SQL](https://www.notion.so/SQL-e6e0290bd9374a119852e44cb09f68a6)
@@ -42,15 +50,17 @@
 
 [Spark](https://www.notion.so/Spark-5f1d637785ee45b7bcf0bf98fb59a88f)
 
-[빅데이터 기본 지식](https://www.notion.so/54367da6fa4c46cd80c7f37bc69d671f)
-
-[HackerRank SQL 정리](https://www.notion.so/HackerRank-SQL-a72af96535954b64934573fd17a09dc0)
+[데이터 파이프라인 Tool](https://www.notion.so/Tool-79f2846c392642478bf50132dc1c42f0)
 
 ### 스터디
 
 [프로그래머스, Data Engineering 스터디 3기](https://www.notion.so/Data-Engineering-3-4ccd8de19816487b87bee1405da5902e)
 
 [코딩인터뷰 완전 분석 책 정리](https://www.notion.so/2c753d9c3b194960887dcd520ba0846f)
+
+[HackerRank SQL 정리](https://www.notion.so/HackerRank-SQL-a72af96535954b64934573fd17a09dc0)
+
+[빅데이터를 지탱하는 기술 책 정리](https://www.notion.so/54367da6fa4c46cd80c7f37bc69d671f)
 
 ### 기타
 
@@ -59,5 +69,3 @@
 [아키텍처](https://www.notion.so/897eb1570954478880c7d165328c21c2)
 
 [코딩 인터뷰 팁](https://www.notion.so/92e9cdb8c1374015b2be4a9daecbd3c1)
-
-[기타](https://www.notion.so/5462bcf6aaf7495c864e48d4adfd0953)
