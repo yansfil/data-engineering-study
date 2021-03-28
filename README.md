@@ -52,7 +52,7 @@
 
 [데이터 파이프라인 Tool](https://www.notion.so/Tool-79f2846c392642478bf50132dc1c42f0)
 
-### 스터디
+### 나혼자 스터디
 
 [프로그래머스, Data Engineering 스터디 3기](https://www.notion.so/Data-Engineering-3-4ccd8de19816487b87bee1405da5902e)
 
